@@ -7,7 +7,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ### ER diagram:
 
-![ERdiagram](ormdocx)
+![ERdiagram](ERdiagram.jpeg)
 
 ## DESIGN STEPS
 
@@ -15,7 +15,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ### STEP 2:clone the github repository into the directory 'ex02' using the command "git clone <url>"
 
-### STEP 3:under the folder "django-orm-app",enter the directory title "dataproject" and enter the folder "dataproject" and go to the file "setting.py"os"
+### STEP 3:under the folder "django-orm-app",enter the directory title "dataproject" and enter the folder "dataproject" and go to the file "setting.py"os"cd
 
 
 ## PROGRAM
