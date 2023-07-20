@@ -7,7 +7,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ### ER diagram:
 
-![ERdiagram](ERdiagram.jpeg)
+![ERdiagram](ERdiagram.jpg)
 
 ## DESIGN STEPS
 
